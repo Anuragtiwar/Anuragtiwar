@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **C ,C++ ,R ,JavaScript ,GIT**
 
-- 📫 How to reach me **at95663@gmail.com**
+- 📫 How to reach me **at956603@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
