@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anuragtiwari102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuragtiwari102" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anurag tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag tiwari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anurag-tiwari-0587b9263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anurag-tiwari-0587b9263/" height="30" width="40" /></a>
 <a href="https://instagram.com/anurag_tiwari1284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag_tiwari1284" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anurag_1284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anurag_1284" height="30" width="40" /></a>
 </p>
