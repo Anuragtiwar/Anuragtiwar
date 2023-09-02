@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anuragtiwar](https://github.com/Anuragtiwar)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,C++**
+- 💬 Ask me about **HTML,CSS,JavaScript,C++,C**
 
 - 📫 How to reach me **at956603@gmail.com**
 
